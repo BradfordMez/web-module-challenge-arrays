@@ -159,7 +159,7 @@ Use the filterByWord function below to do the following:
 
     DO NOT USE ADVANCED ARRAY METHODS (i.e. .filter) to solve this problem. 
 */
-
+ 
 function filterByWord(array, string){
     /*your code here*/
     const filteredFlavours=[];
